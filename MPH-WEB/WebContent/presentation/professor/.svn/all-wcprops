@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/mph-aco/!svn/ver/240/MPH-WEB/WebContent/presentation/professor
+END
+professorProjectsList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/mph-aco/!svn/ver/241/MPH-WEB/WebContent/presentation/professor/professorProjectsList.jsp
+END
+newProjectCreation.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/mph-aco/!svn/ver/241/MPH-WEB/WebContent/presentation/professor/newProjectCreation.jsp
+END
+confirmEvaluation.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mph-aco/!svn/ver/241/MPH-WEB/WebContent/presentation/professor/confirmEvaluation.jsp
+END
+documentByType.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mph-aco/!svn/ver/241/MPH-WEB/WebContent/presentation/professor/documentByType.jsp
+END
+profProjectArea.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mph-aco/!svn/ver/241/MPH-WEB/WebContent/presentation/professor/profProjectArea.jsp
+END
+groupList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mph-aco/!svn/ver/241/MPH-WEB/WebContent/presentation/professor/groupList.jsp
+END
+calendarDateInput.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mph-aco/!svn/ver/105/MPH-WEB/WebContent/presentation/professor/calendarDateInput.js
+END
+documentOfAGroup.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mph-aco/!svn/ver/241/MPH-WEB/WebContent/presentation/professor/documentOfAGroup.jsp
+END
+insertDeadline.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mph-aco/!svn/ver/231/MPH-WEB/WebContent/presentation/professor/insertDeadline.jsp
+END
+datetimepicker_css.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mph-aco/!svn/ver/110/MPH-WEB/WebContent/presentation/professor/datetimepicker_css.js
+END
+deleteProject.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/mph-aco/!svn/ver/241/MPH-WEB/WebContent/presentation/professor/deleteProject.html
+END
+finalEvaluation.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mph-aco/!svn/ver/241/MPH-WEB/WebContent/presentation/professor/finalEvaluation.jsp
+END
+profChangePassword.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/mph-aco/!svn/ver/241/MPH-WEB/WebContent/presentation/professor/profChangePassword.jsp
+END
+enableVisibility.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mph-aco/!svn/ver/241/MPH-WEB/WebContent/presentation/professor/enableVisibility.jsp
+END

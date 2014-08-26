@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/mph-aco/!svn/ver/227/MPH-EJB/ejbModule/sessionBeans/stateful
+END
+AdministratorManagerBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/mph-aco/!svn/ver/55/MPH-EJB/ejbModule/sessionBeans/stateful/AdministratorManagerBean.java
+END
+ProfessorManagerBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mph-aco/!svn/ver/222/MPH-EJB/ejbModule/sessionBeans/stateful/ProfessorManagerBean.java
+END
+StudentManagerBeanRemote.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/mph-aco/!svn/ver/169/MPH-EJB/ejbModule/sessionBeans/stateful/StudentManagerBeanRemote.java
+END
+AdministratorManagerBeanRemote.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/mph-aco/!svn/ver/49/MPH-EJB/ejbModule/sessionBeans/stateful/AdministratorManagerBeanRemote.java
+END
+ProfessorManagerBeanRemote.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/mph-aco/!svn/ver/207/MPH-EJB/ejbModule/sessionBeans/stateful/ProfessorManagerBeanRemote.java
+END
+StudentManagerBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mph-aco/!svn/ver/227/MPH-EJB/ejbModule/sessionBeans/stateful/StudentManagerBean.java
+END

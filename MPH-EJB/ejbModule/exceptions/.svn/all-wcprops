@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/mph-aco/!svn/ver/98/MPH-EJB/ejbModule/exceptions
+END
+NotValidProjectException.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mph-aco/!svn/ver/35/MPH-EJB/ejbModule/exceptions/NotValidProjectException.java
+END
+NotValidGroupException.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mph-aco/!svn/ver/35/MPH-EJB/ejbModule/exceptions/NotValidGroupException.java
+END
+LoginFailException.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mph-aco/!svn/ver/39/MPH-EJB/ejbModule/exceptions/LoginFailException.java
+END
+PermissionDeniedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mph-aco/!svn/ver/35/MPH-EJB/ejbModule/exceptions/PermissionDeniedException.java
+END
+NotLoggedInException.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mph-aco/!svn/ver/35/MPH-EJB/ejbModule/exceptions/NotLoggedInException.java
+END
+StudentCreationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/mph-aco/!svn/ver/47/MPH-EJB/ejbModule/exceptions/StudentCreationException.java
+END
+PasswordException.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mph-aco/!svn/ver/92/MPH-EJB/ejbModule/exceptions/PasswordException.java
+END
+WrongParameterException.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mph-aco/!svn/ver/98/MPH-EJB/ejbModule/exceptions/WrongParameterException.java
+END
+ProfessorCreationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mph-aco/!svn/ver/53/MPH-EJB/ejbModule/exceptions/ProfessorCreationException.java
+END

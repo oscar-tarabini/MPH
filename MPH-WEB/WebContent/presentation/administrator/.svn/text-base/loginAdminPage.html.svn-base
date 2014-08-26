@@ -1,0 +1,107 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+
+<head>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content=""/>
+	<meta name="description" content="Login page for the MPH administrator area" /> 
+	<SCRIPT TYPE="text/javascript">
+ 
+var hh=0;
+var inter;
+ 
+//we show the box by setting the visibility of the element and incrementing the height smoothly
+function ShowBox()
+{
+ 
+//Depending on the amount of text, set the maximum height here in pixels
+//NB: Qua bisogna cambiare l'altezza delle istruzioni!!!
+
+     if(hh==50)
+     {
+     clearInterval(inter);
+     return;
+     }
+ 
+     obj = document.getElementById("cover");
+     obj.style.visibility = 'visible';
+     hh+=2;
+     obj.style.height = hh + 'px';
+}
+ 
+//same way as above but reversed
+function HideBox()
+{
+     obj = document.getElementById("cover");
+ 
+     if(hh==2)
+     {
+     obj.style.visibility = 'hidden';
+     obj.style.height = '0.1em';
+     clearInterval(inter);
+     return;
+     }
+     hh-=2;
+     obj.style.height = hh + 'px';
+}
+</SCRIPT>
+	<link type="text/css" rel="stylesheet" href="../css/MPH.css"/>
+	
+	<title>Administrator login area</title>
+	
+</head>
+	
+	<body class="index">
+		
+		<div id="header">
+			<a href="../../index.jsp">
+				<img id="logo" src="../images/MPHlogo1.png" alt="Logo MPH">
+			</a>
+			
+			<span id="administratorAreaLabel">
+			Administrator Area
+			</span>
+		</div>
+		
+		
+		
+			<form id="loginForm" method="post" action="../../controller/controllerLogin.jsp?action=adminLogin" class="form">
+    			<div class="form">
+    					<div class="formTitle">
+   					<label class="formTitle" id="adminLoginForm">Administrator login</label>
+   					</div>
+
+	   				<div class="formVoice">
+	   				Username
+	   				<br>
+	   				<input id="usernameLogin" type="text" name="username" value="" class="longInput"/>
+   					</div>
+        	 		<br>
+         						
+	         		<div class="formVoice">
+   					Password
+   					<br>
+
+   					<input id="passwordLogin" type="password" name="password" value="" class="shortInput"/>
+
+	   				<input type="submit" class="confirmButton" id="" name="loginDataConfirmation" value="Confirm">
+   					</div>
+						
+				</div>
+			</form>
+			
+			<!-- QUA COMINCIA IL BLOCCO DELLE ISTRUZIONI -->
+			<div id="instructionsContainer">
+				<a id="instructionsTitle" href="#" onclick="inter=setInterval('ShowBox()',3);return false;">Help</a>
+				<div id="cover">
+					<a id="instructions" href="#" onclick="inter=setInterval('HideBox()',3);return false;">
+						This is the administrator login area. Insert your username and password to access the private area and enable all the administrator's permissions. 
+					</a>
+				</div>
+			</div>
+			<!-- QUA FINISCE IL BLOCCO DELLE ISTRUZIONI -->
+			
+	</body>
+
+</html>

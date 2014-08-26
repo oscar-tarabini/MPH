@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/mph-aco/!svn/ver/239/MPH-EJB/ejbModule/sessionBeans/stateless
+END
+GroupManagerBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/mph-aco/!svn/ver/191/MPH-EJB/ejbModule/sessionBeans/stateless/GroupManagerBean.java
+END
+GroupManagerBeanLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/mph-aco/!svn/ver/191/MPH-EJB/ejbModule/sessionBeans/stateless/GroupManagerBeanLocal.java
+END
+DocumentManagerBeanLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/mph-aco/!svn/ver/188/MPH-EJB/ejbModule/sessionBeans/stateless/DocumentManagerBeanLocal.java
+END
+UserManagerBeanLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mph-aco/!svn/ver/92/MPH-EJB/ejbModule/sessionBeans/stateless/UserManagerBeanLocal.java
+END
+UserManagerBeanRemote.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/mph-aco/!svn/ver/228/MPH-EJB/ejbModule/sessionBeans/stateless/UserManagerBeanRemote.java
+END
+DeadlineScoreManagerBeanLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/mph-aco/!svn/ver/191/MPH-EJB/ejbModule/sessionBeans/stateless/DeadlineScoreManagerBeanLocal.java
+END
+ProjectManagerBeanLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/mph-aco/!svn/ver/207/MPH-EJB/ejbModule/sessionBeans/stateless/ProjectManagerBeanLocal.java
+END
+ProjectManagerBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/mph-aco/!svn/ver/222/MPH-EJB/ejbModule/sessionBeans/stateless/ProjectManagerBean.java
+END
+DeadlineScoreManagerBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/mph-aco/!svn/ver/239/MPH-EJB/ejbModule/sessionBeans/stateless/DeadlineScoreManagerBean.java
+END
+DocumentManagerBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mph-aco/!svn/ver/237/MPH-EJB/ejbModule/sessionBeans/stateless/DocumentManagerBean.java
+END
+UserManagerBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/mph-aco/!svn/ver/230/MPH-EJB/ejbModule/sessionBeans/stateless/UserManagerBean.java
+END

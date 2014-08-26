@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/mph-aco/!svn/ver/200/MPH-EJB/ejbModule/entityBeans
+END
+Professor.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mph-aco/!svn/ver/200/MPH-EJB/ejbModule/entityBeans/Professor.java
+END
+Administrator.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mph-aco/!svn/ver/33/MPH-EJB/ejbModule/entityBeans/Administrator.java
+END
+DeadlineKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mph-aco/!svn/ver/103/MPH-EJB/ejbModule/entityBeans/DeadlineKey.java
+END
+DeadlineScoreKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mph-aco/!svn/ver/193/MPH-EJB/ejbModule/entityBeans/DeadlineScoreKey.java
+END
+AssociationStudentProjectKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/mph-aco/!svn/ver/114/MPH-EJB/ejbModule/entityBeans/AssociationStudentProjectKey.java
+END
+AssociationStudentProject.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mph-aco/!svn/ver/33/MPH-EJB/ejbModule/entityBeans/AssociationStudentProject.java
+END
+Group.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/mph-aco/!svn/ver/200/MPH-EJB/ejbModule/entityBeans/Group.java
+END
+Student.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mph-aco/!svn/ver/200/MPH-EJB/ejbModule/entityBeans/Student.java
+END
+Document.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mph-aco/!svn/ver/63/MPH-EJB/ejbModule/entityBeans/Document.java
+END
+DeadlineScore.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mph-aco/!svn/ver/185/MPH-EJB/ejbModule/entityBeans/DeadlineScore.java
+END
+GroupDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mph-aco/!svn/ver/200/MPH-EJB/ejbModule/entityBeans/GroupDocument.java
+END
+Project.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mph-aco/!svn/ver/200/MPH-EJB/ejbModule/entityBeans/Project.java
+END
+Deadline.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mph-aco/!svn/ver/147/MPH-EJB/ejbModule/entityBeans/Deadline.java
+END
+OverviewDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mph-aco/!svn/ver/200/MPH-EJB/ejbModule/entityBeans/OverviewDocument.java
+END
+ProjectOverview.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mph-aco/!svn/ver/40/MPH-EJB/ejbModule/entityBeans/ProjectOverview.java
+END

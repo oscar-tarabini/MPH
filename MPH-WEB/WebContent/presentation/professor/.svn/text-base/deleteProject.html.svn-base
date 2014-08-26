@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link type="text/css" rel="stylesheet" href="../css/MPH.css"/>
+<script type="text/javascript" src="../../helpTextFunction.js"></script>
+<title>PROJECT DELETION</title>
+</head>
+<body>
+<div id="header">
+		<div>
+		<a href="professorProjectsList.jsp">
+			<img id="logo" src="../images/MPHlogo1.png" alt="Logo MPH">
+		</a>
+		<label class="topLeftLabel">
+			PROJECT DELETION
+		</label>
+		</div>
+		<br>
+		<ul class="topLandmarks">
+			<li>
+			<a href="profProjectArea.jsp" class="topLandmark">Project Area</a>
+			</li>
+			<li>
+			<a href="../../controller/controllerLogin.jsp?action=professorLogout" class="topLandmark">Logout</a>
+			</li>
+		</ul>
+	</div>
+
+
+<div id="warning_deletion_project">
+<h1>WARNING!!</h1>
+<p id="warning_deletion_project">You're going to delete the whole project. <br/>
+This means that the project will be no more available, both for you and the registered students. <br/>
+If you don't want to delete the project, simply click on "come back".<br/>
+If you are sure of what you are doing, click "delete project". </p>
+<br/><br/>
+
+<a id="deletion" href="../../controller/controllerProf.jsp?action=deleteProject">DELETE PROJECT</a>
+</div>
+</body>
+</html>

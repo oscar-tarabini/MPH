@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/mph-aco/!svn/ver/238/MPH-WEB/WebContent/controller
+END
+controllerLogin.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mph-aco/!svn/ver/238/MPH-WEB/WebContent/controller/controllerLogin.jsp
+END
+controllerStudent.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mph-aco/!svn/ver/238/MPH-WEB/WebContent/controller/controllerStudent.jsp
+END
+controllerAdmin.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mph-aco/!svn/ver/216/MPH-WEB/WebContent/controller/controllerAdmin.jsp
+END
+controllerProf.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mph-aco/!svn/ver/238/MPH-WEB/WebContent/controller/controllerProf.jsp
+END
+controllerUploadDownload.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mph-aco/!svn/ver/238/MPH-WEB/WebContent/controller/controllerUploadDownload.jsp
+END

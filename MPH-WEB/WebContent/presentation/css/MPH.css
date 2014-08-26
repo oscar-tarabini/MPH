@@ -1,0 +1,536 @@
+body{
+	color: #0d2078;
+	background-color: white;
+	width: 1265px;
+	font-family: Verdana, Geneva, sans-serif;
+	border:solid;
+	border-width: 1px;
+	padding-bottom: 30px;
+	
+}
+
+body.index{
+	width: 800px;
+}
+
+div#header{
+	padding-left: 10px;
+	height: auto;
+	background-image: url(../images/HeaderBackground.png);
+	background-size: 1260px 150px;
+	background-repeat: repeat;
+	border-bottom: double;
+	border-width: 5px;
+	border-color: #0d2078;
+}
+
+a img#logo{
+	height:150px;
+}
+
+span#administratorAreaLabel{
+	font-variant: small-caps;
+	position: relative;
+	bottom: 19px;
+	left: 120px;
+	font-weight: bold;
+	font-size: x-large;
+}
+
+span.large#administratorAreaLabel{
+	position: relative;
+	left: 580px;
+}
+
+a#adminLoginLink{
+	color: #0d2078;
+	position: absolute;
+	top: 109px;
+	left: 720px;
+	text-decoration: none;
+	font-size: larger;
+	background-color: #d9e6e1;
+	padding: 5px;
+}
+
+a#adminLoginLink:hover{
+	text-decoration: underline;
+}
+
+div.form, div.list{
+	width: 350px;
+	margin-top: 30px;
+	margin-left: 20px;
+	border: solid #0d2078;
+	font-weight: 300;
+	margin-bottom:30px;
+	height:auto;
+	padding-bottom:15px;
+	vertical-align:top;
+}
+
+div.formTitle, div.listTitle{
+	background-color: #8fd043;
+	width: 100%;
+	height: 30px;
+	margin-bottom:10px;
+}
+
+label.formTitle, label.listTitle{
+	margin-left: 20px;
+	position:relative;
+	top:4px;
+	font-weight: 500;
+}
+
+div.form#registrationForm{
+	margin-left: 30px;
+}
+
+div.form#profDeletionForm{
+	margin-left: 20px;
+}
+
+div.form#projectDetails{
+	margin-left: 20px;
+	width:1215px;
+	padding-bottom:10px;
+}
+/*
+span.formTitle#registrationForm{
+	padding-right: 196px;
+}
+
+span.formTitle#professorRegistrationForm{
+	padding-right: 182px;
+}
+
+span.formTitle#professorDeletionForm{
+	padding-right: 206px;
+}
+
+span.formTitle#projectDetails{
+	padding-right: 1099px;
+}
+*/
+div.formVoice{
+	margin-left: 20px;
+	color: black;
+}
+
+div.inlineVoice{
+	display: inline-block;
+}
+
+div.deadlineDate{
+	position:relative;
+	bottom:22px;
+	margin-top:5px;
+}
+
+div.closureDate{
+	color: black;
+	position:relative;
+	bottom:22px;
+	margin-top:15px;
+	margin-left:157px;
+}
+
+label#closureDateLabel{
+	color: black;
+	margin-left:20px;
+}
+
+#closureDateDivider{
+	margin-left:20px;
+}
+
+input.longInput{
+	width: 300px;
+	margin-top: 5px;
+}
+
+input.shortInput{
+	width: 200px;
+	margin-right: 35px;
+	margin-top: 5px;
+}
+
+input.date{
+	width: 150px;
+	margin-right: 5px;
+	margin-top: 5px;
+}
+
+input#closureDate{
+	width: 150px;
+	margin-right: 5px;
+	margin-top: 5px;
+	margin-left:157px;
+}
+
+.form{
+	display: inline-block;
+	vertical-align: top;
+}
+
+p#indexMessage{
+	color: red;
+	margin-left: 25px;
+	width: 350px;
+	text-align: left;
+}
+
+div#messageContainer{
+	display: inline-block;
+}
+
+p#indexMessage.adminMessages{
+	color: red;
+	padding: 5px;
+	margin-top: 30px;
+	width: 420px;
+	border-left: solid;
+	border-right: solid;
+	border-width: 1px;
+	border-color: #0d2078;
+	text-align: justify;
+	padding-bottom:20px;
+}
+
+input.alone{
+	position: relative;
+	left: 255px;
+}
+
+input.leftButton{
+	margin-left:25px;
+}
+
+div.form#changePasswordForm{
+	margin-left: 30px;
+}
+/*
+span.formTitle#changePasswordForm{
+	padding-right: 206px;
+}
+*/
+a.logoutLink{
+	color: #0d2078;
+	text-decoration: none;
+	font-size: larger;
+	margin-left:35px;
+}
+
+a.logoutLink:hover{
+	text-decoration: underline;
+}
+
+div#studentsEmails{
+	margin-top:20px;
+	margin-left:65px;
+	padding-left:55px;
+	border-left:solid;
+	margin-right:20px;
+	border-width:1px;
+	padding-bottom:20px;
+}
+
+textarea#studentsEmails{
+	width:500px;
+	height:200px;
+	cols:500;
+	rows:200;
+	resize:none;
+	margin-top:5px;
+	overflow-x: hidden;
+	overflow-y: scroll;
+}
+
+.topAligned{
+	vertical-align:top;
+}
+
+img.calImage{
+	position:relative;
+	top:2px;
+}
+
+div#instructionsContainer{
+	margin: 5px 20px 0px 20px;
+}
+
+a#instructionsTitle{
+	display: block;
+	margin-left:7px;
+	color:#5e7cc8;
+	width:40px;
+	text-decoration:none;
+}
+
+#cover{ 
+height: 0.1em;  
+overflow:hidden;
+visibility: hidden;
+}
+
+a#instructions{
+	display: block;
+	margin-top: 7px;
+	padding: 0px 5px 0px 5px;
+	border-left: solid 1px;
+	border-right: solid 1px;
+	color:#5e7cc8;
+	text-align:justify;
+	text-decoration:none;
+}
+
+ul.topLandmarks{
+	display: block;
+	margin: 0px 0px 10px 0px;
+	padding: 0px 0px 0px 0px;
+	text-align: right;
+}
+
+ul.topLandmarks li{
+	display: inline;
+	border-left: dotted;
+	border-width: 1px;
+	margin: 0px 0px 0px 0px;
+	padding: 10px 0px;
+	font-variant: small-caps;
+	font-weight: bold;
+}
+
+ul.topLandmarks li:hover{
+	background-image: url(../images/bkgGreen.png);
+	background-repeat: repeat;
+}
+
+a.topLandmark{
+	text-decoration: none;
+	font-size: larger;
+	color:inherit;
+	margin: 0px 0px 0px 0px;
+	padding: 10px 30px;
+}
+
+div.projectListTitle{
+	text-align: center;
+	margin-bottom: 0px;
+}
+
+label.projectListTitle,label.listTitle{
+	font-weight: bold;
+	font-variant:small-caps;
+	position: relative;
+	top: 5px;
+}
+
+div.projectList{
+	width: 590px;
+	margin: 30px 32px 0px 32px;
+	display: inline-block;
+	padding: 0px;
+}
+
+div.projectList.stud{
+	margin: 0px 0px 30px 0px;
+	display: block;
+	padding: 0px;
+}
+
+div#studentListsContainer{
+	margin: 30px 32px 0px 32px;
+}
+
+div#instructionsContainer.projectList{
+	display: inline-block;
+	width: 550px;
+	margin-top: 35px; 
+}
+
+div#instructionsContainer.newProjectCreation{
+	display: inline-block;
+width: 760px;
+margin-top: 35px; 
+}
+
+div#instructionsContainer.stud{
+	vertical-align: top; 
+	margin-left: 35px;
+	width: 590px;
+	margin-top:15px;
+}
+
+div#instructionsContainer.studentProjectArea{
+	vertical-align: top; 
+	margin-left: 35px;
+	width: auto;
+	margin-top:15px;
+}
+
+h2.projectListItem{
+	text-decoration: none;
+	font-weight: 100;
+	margin: 0px;
+	padding: 7px 10px;
+	border-top: solid;
+	border-width: 1px;
+	font-size: large;
+	border-color: #5E7CC8;
+}
+
+h2.evenItem{
+	background-color: #E5F0FF;
+}
+
+h2.oddItem{
+	background-color: #f4ffed;
+}
+
+a.listItemLink{
+	width:100%;
+	height:100%;
+	text-decoration:none;
+	color:black;
+	font-family: "Courier New", courier;
+}
+
+a.listItemLink.notJoined{
+	color:grey;
+}
+
+h2.projectListItem:hover{
+	border-width:2px;
+	border-bottom: solid 1px #5E7CC8;
+}
+
+h2.projectListItem:hover a.listItemLink{ 
+	color:#0d2078;
+}
+
+label.topLeftLabel{
+	position: absolute;
+	top: 179px;
+	left: 35px;
+	background-image: url("../images/topArrow.png");
+	height: 40px;
+	background-size: 20px 20px;
+	line-height: 20px;
+	padding-left: 25px;
+	background-repeat: no-repeat;
+	font-size: 20px;
+	font-variant: small-caps;
+	font-weight: bold;
+}
+
+div#errorPageMessage{
+	margin-left: 20px;
+}
+
+label#errorPageMessage{
+	color:red;
+	font-weight: bold;
+}
+
+label.newProject{
+	position:inherit;
+	margin-bottom: -10px;
+	margin-left: 15px;
+	display:block;
+}
+
+div#projectDetailsForm{
+	width:410px;
+}
+
+input.projectDetails{
+	position: relative;
+	left:325px;
+}
+
+input#uploadButton{
+	margin-top:10px;
+}
+
+label.projectName{
+	position: relative;
+	top: 7px;
+	font-weight: bold;
+	color: #0D2078;
+	font-variant: small-caps;
+	font-size: 20px;
+}
+
+a#deletion {
+	position: relative;
+font-size: 14px;
+left: 240px;
+color: red;
+font-weight: bold;
+vertical-align: top;
+}
+
+div#instructionsContainer.projectArea{
+	display: inline-block;
+width: 708px;
+margin-top: 10px;
+margin-left: 30px;
+}
+
+div.list{
+	width: 700px;
+	margin: 30px 32px 0px 32px;
+	display: inline-block;
+	padding: 0px;
+}
+
+ span.listItem{
+	text-decoration: none;
+	text-transform : uppercase;
+	font-style : oblique;
+	font-weight: 100;
+	margin: 5px;
+	padding: 7px 10px;
+	font-size: large;
+	color: blue;
+}
+div.listItem{
+	margin : 20px;
+}
+
+div.compact, div.compact span.listItem {
+	margin-top : 0 !important;
+	margin-down : 0 !important;
+	padding : 0;
+}
+
+#message, .message, #errorMessage{
+	color:red;
+	font-weight: bold;
+}
+
+div#warning_deletion_project{
+	margin-left:35px;	
+}
+
+div#warning_deletion_project a#deletion{
+	position: initial;
+}
+
+p.error.message{
+	margin-left: 20px;
+}
+
+form#projectDetailsForm{
+	display: inline;
+}
+
+img#studentPicture{
+	size: 100px 200px;
+display: inline-block;
+vertical-align: top;
+margin-top: 40px;
+margin-left: 20px;
+}

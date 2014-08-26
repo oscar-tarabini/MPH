@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/mph-aco/!svn/ver/227/MPH-EJB/ejbModule/tests
+END
+ProfessorManagerBeanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mph-aco/!svn/ver/213/MPH-EJB/ejbModule/tests/ProfessorManagerBeanTest.java
+END
+AdminManagerBeanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/mph-aco/!svn/ver/213/MPH-EJB/ejbModule/tests/AdminManagerBeanTest.java
+END
+TestBeanRemote.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mph-aco/!svn/ver/213/MPH-EJB/ejbModule/tests/TestBeanRemote.java
+END
+ConfigurationToolsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mph-aco/!svn/ver/214/MPH-EJB/ejbModule/tests/ConfigurationToolsTest.java
+END
+StudentManagerBeanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/mph-aco/!svn/ver/227/MPH-EJB/ejbModule/tests/StudentManagerBeanTest.java
+END
+TestBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/mph-aco/!svn/ver/213/MPH-EJB/ejbModule/tests/TestBean.java
+END

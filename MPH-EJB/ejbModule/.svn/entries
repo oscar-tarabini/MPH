@@ -1,0 +1,46 @@
+10
+
+dir
+240
+https://subversion.assembla.com/svn/mph-aco/MPH-EJB/ejbModule
+https://subversion.assembla.com/svn/mph-aco
+
+
+
+2012-02-16T20:07:00.976998Z
+239
+oscar89
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+55257d96-a561-49b5-ac81-429158f794f5
+
+META-INF
+dir
+
+entityBeans
+dir
+
+exceptions
+dir
+
+sessionBeans
+dir
+
+tests
+dir
+
+utility
+dir
+
